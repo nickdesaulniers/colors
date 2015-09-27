@@ -1,5 +1,7 @@
 #include <iostream>
+#include <string>
 #include "colors.h"
+
 int main () {
   std::cout <<
     colors::fg::black("black ") <<
